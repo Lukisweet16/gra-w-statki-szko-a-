@@ -368,7 +368,7 @@ bool corectPlacement=false;
     {
         cordX,cordY=0;
         cordYLetter,cordXNumber='0';
-        cout<< "place thy ships mortal (one mast * 4 )"<<endl;
+        cout<< "place the one mast * 4 "<<endl;
         cout<<"place the first cord(A-J): "<<endl;
         cin>>cordYLetter;
         if (isalpha(cordYLetter)==false)
@@ -406,7 +406,7 @@ bool corectPlacement=false;
     {
         cordX,cordY=0;
         cordYLetter,cordXNumber='0';
-        cout<< "place thy ships mortal (two mast * 3 )"<<endl;
+        cout<< "place the  two mast * 3 "<<endl;
         cout<<"place the first cord(A-J): "<<endl;
         cin>>cordYLetter;
         if (isalpha(cordYLetter)==false)
@@ -450,7 +450,7 @@ bool corectPlacement=false;
     {
         cordX,cordY=0;
         cordYLetter,cordXNumber='0';
-        cout<< "place thy ships mortal (three mast * 2  )"<<endl;
+        cout<< "place the three mast * 2  "<<endl;
         cout<<"place the first cord(A-J): "<<endl;
         cin>>cordYLetter;
         if (isalpha(cordYLetter)==false)
@@ -495,7 +495,7 @@ bool corectPlacement=false;
     {
         cordX,cordY=0;
         cordYLetter,cordXNumber='0';
-        cout<< "place thy ships mortal (four mast * 1)"<<endl;
+        cout<< "place the four mast * 1"<<endl;
         cout<<"place the first cord(A-J): "<<endl;
         cin>>cordYLetter;
         if (isalpha(cordYLetter)==false)
