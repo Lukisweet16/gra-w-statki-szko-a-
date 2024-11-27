@@ -137,7 +137,7 @@ myboard2.ShowPlayingBoard(playingboard2);
     
 
 
-magicSpace()
+magicSpace();
 
 // Game loop
 
