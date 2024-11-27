@@ -138,7 +138,7 @@ myboard2.ShowPlayingBoard(playingboard2);
 
 
 magicSpace();
-cout<<"press a key to start the game "<<endl;
+cout<<"press a key when the player 1 is ready "<<endl;
     cin.ignore();
     cin.get();
 magicSpace();
