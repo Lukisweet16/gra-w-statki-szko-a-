@@ -138,7 +138,10 @@ myboard2.ShowPlayingBoard(playingboard2);
 
 
 magicSpace();
-
+cout<<"press a key to start the game "<<endl;
+    cin.ignore();
+    cin.get();
+magicSpace();
 // Game loop
 
     
