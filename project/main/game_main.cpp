@@ -73,7 +73,7 @@ ship oppThreeMast2( 8,8,3);
 ship oppFourMast1( 0,2,4);
 
 
-//game loop
+
 
 
  
@@ -137,7 +137,7 @@ myboard2.ShowPlayingBoard(playingboard2);
     
 
 
-
+magicSpace()
 
 // Game loop
 
