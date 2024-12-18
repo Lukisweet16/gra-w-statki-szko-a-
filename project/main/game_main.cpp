@@ -161,6 +161,11 @@ magicSpace();
     }
    magicSpace();
     cout<<"player 2 turn to shoot"<<endl;
+        magicSpace();
+cout<<"press a key when the player 2 is ready "<<endl;
+    cin.ignore();
+    cin.get();
+magicSpace();
     myboard2.ShowPlayingBoard(playingboard2);
     aimingboard2.ShowAimingBoard(playingboard4);
     while(attackstatus2==false){
