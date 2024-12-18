@@ -147,6 +147,11 @@ magicSpace();
     
     while (winstatus1 == false && winstatus2 == false) {
         attackstatus1=false,attackstatus2=false;
+        magicSpace();
+cout<<"press a key when the player 1 is ready "<<endl;
+    cin.ignore();
+    cin.get();
+magicSpace();
      cout<<"player 1 turn to shoot"<<endl;
 
     myboard1.ShowPlayingBoard(playingboard1);
